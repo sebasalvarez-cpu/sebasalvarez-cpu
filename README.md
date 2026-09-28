@@ -92,7 +92,7 @@ Mi objetivo es desarrollarme profesionalmente como **Analista de Datos**, fortal
 ## 📫 Contacto
 
 <p>
-  <a href="">
+  <a href="www.linkedin.com/in/sebastianalvarezmesa-analistadedatos">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
 
