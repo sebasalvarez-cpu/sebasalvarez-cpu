@@ -63,7 +63,7 @@ Proyecto de análisis de datos orientado a estudiar el progreso de estudiantes d
 
 `SQL` `Python` `Power BI` `MySQL`
 
-🔗 [**Ver proyecto →**](LINK_REPOSITORIO_ELEARNING)
+🔗 [**Ver proyecto →**](https://github.com/lorefunez7-cpu/Proyecto-Plataforma-Educativa-)
 
 ---
 
